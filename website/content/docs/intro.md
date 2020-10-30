@@ -14,7 +14,7 @@ At its core, Netlify CMS is an open-source React app that acts as a wrapper for 
 * **Flexible content types:** Specify an unlimited number of content types with custom fields.
 * **Fully extensible:** Create custom-styled previews, UI widgets, and editor plugins.
 
-  ![](/img/hugo.svg)
+  ![hug0](/img/hugo.svg "hugo")
 
 ## Netlify CMS vs. Netlify
 
